@@ -1,0 +1,6 @@
+# For a Node.js project
+node_modules/
+.env
+dist/
+
+pockage-lock.json
